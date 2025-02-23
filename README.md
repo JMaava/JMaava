@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Привет! Меня зовут Мария, я QA-инженер с фокусом на автоматизацию тестирования  
+🚀 **Помогаю повышать качество программного обеспечения с помощью автотестов и аналитики**  
 
-<!--
-**JMaava/JMaava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 О себе  
+- 🛠 Имею 2 года опыта в IT
+- 🔍 Обладаю аналитическим складом ума, выявляю потенциальные уязвимости и работаю над улучшением тестового покрытия  
+- ⚡ Быстро адаптируюсь к новым проектам и технологиям
+- 🏗 Использую паттерн Page Object и модульный подход к автоматизации тестирования, позволяющий переиспользовать компоненты UI
+- 📈 Рассматриваю тестирование как стратегический процесс, направленный на повышение надежности и стабильности продукта  
+- 🎯 Цели: изучить API-тестирование и CI/CD для расширения своих навыков в автоматизации
 
-Here are some ideas to get you started:
+### 🔧 Технологический стек 
+Коммерческий опыт: 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Playwright](https://img.shields.io/badge/Playwright-2E8B57?style=for-the-badge&logo=playwright&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub_Actions-informational?style=for-the-badge)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+В рамках обучения:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 📬 Контакты  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Marii_Vol)  **(основной контакт)**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.mari221994@yandex.ru)
