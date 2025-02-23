@@ -10,18 +10,18 @@
 - 🎯 Цели: изучить API-тестирование и CI/CD для расширения своих навыков в автоматизации
 
 ### 🔧 Технологический стек 
-Коммерческий опыт: 
+💼 Коммерческий опыт: 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Playwright](https://img.shields.io/badge/Playwright-2E8B57?style=for-the-badge&logo=playwright&logoColor=white) 
+![Playwright](https://img.shields.io/badge/Playwright-2E8B57?style=for-the-badge&logo=playwright&logoColor=white)  
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white)  
 
-В рамках обучения:
+📚 В рамках обучения:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub_Actions-informational?style=for-the-badge)  
 
 ### 📬 Контакты  
